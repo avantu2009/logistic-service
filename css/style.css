@@ -9673,6 +9673,7 @@ p,
   bottom: 0;
 }
 
+
 .testimonial-carousel .owl-item {
   opacity: .2;
 }
@@ -9703,4 +9704,16 @@ p,
   margin: 0;
   padding: 0;
   list-style-type: none;
+}
+
+.pdf-file-download li{
+  display: inline-block;
+  list-style: none;
+  padding: 10px 20px;
+  border: 1px solid #c1c1c1;
+  margin: 0 20px;
+}
+.pdf-file-download ul{
+  margin: 20px 0;
+  padding: 0;
 }
